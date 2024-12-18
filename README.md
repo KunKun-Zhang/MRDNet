@@ -85,12 +85,10 @@ All dataset generation scripts are located within the `dataset/doa_data` directo
 ## Repository Structure
 
 ```
-├── doa
-│   ├── noise
-│   │   ├── diff_mic_num_normalize
-│   │   ├── fix_array
-│   │   ├── same_size_diff_num
-│   │   └── wind_noise
+├── diff_mic_num_normalize
+├── fix_array
+├── same_size_diff_num
+├── wind_noise
 ├── dataset
 │   └── doa_data
 │       ├── car_dataset
