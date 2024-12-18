@@ -1,6 +1,6 @@
 # Direction of Arrival (DOA) Models and Dataset
 
-This repository provides the implementation and dataset generation scripts for Direction of Arrival (DOA) models, as detailed in Chapter 3 and Chapter 4 of the associated academic thesis. The DOA models are designed to perform accurately in various noisy and reverberant environments, facilitating robust sound source localization.
+This repository provides the implementation and dataset generation scripts for the Multi-Resblock DOA Network (MRDNet), a novel neural network designed for precise DOA estimation of low-frequency sounds in noisy environments using small-aperture arrays.
 
 ## Table of Contents
 
